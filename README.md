@@ -19,5 +19,4 @@ Tic-Tac-Toe is a simple yet engaging strategy game where two players take turns 
 
 ### 1️⃣ Clone the Repository  
 ```sh
-git clone https://github.com/KIHs0/tic-tac-toe.git
-cd tic-tac-toe
+git clone https://github.com/KIHs0/X-O-Game.git
